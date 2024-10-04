@@ -1,4 +1,4 @@
-Encriptador de texto.Cambia las vocales por las palbras. a--->ai/ e--->enter/ i--->imes/ o--->ober/
+Encriptador de texto. Cambia las vocales por las palbras. a--->ai/ e--->enter/ i--->imes/ o--->ober/
 u--->ufat
 
 Text encrypter. Change the vowels for the words. a---> ai/ e--->enter / i--->imes / o--->ober / 
