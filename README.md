@@ -6,4 +6,5 @@ u--->ufat
 
 https://matiasnoguera.github.io/TextEncryptor/
 
-![Captura de pantalla (417)](https://github.com/user-attachments/assets/54f63c65-1715-4060-a38b-e3c6bf8fdee7)
+
+![Captura de pantalla (417)](https://github.com/user-attachments/assets/54f63c65-1715-4060-a38b-e3c6bf8fdee7) 
