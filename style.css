@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F3F5FC;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin: auto;
+    width: 90%;
+    max-width: 600px;
+    padding: 20px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.input-section {
+    margin-bottom: 20px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.button-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    background-color: #0A3871;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0A2D5D; /* Color más oscuro al pasar el mouse */
+}
+
+.output-section {
+    margin-top: 20px;
+}
+
+.pie-de-pagina {
+    text-align: center;
+    margin-top: 20px; 
+}
+
+/* Media Queries para Responsividad */
+@media (max-width: 600px) {
+    .button-group {
+        flex-direction: column; /* Apilar botones en columnas en pantallas pequeñas */
+    }
+ 
+    button {
+        margin-bottom: 10px; /* Espacio inferior entre botones */
+    }
+ } 

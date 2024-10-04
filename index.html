@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador de Textos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador de Textos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <h1>Encriptador de Textos</h1>
+        </div>
+
+        <div class="input-section">
+            <textarea id="inputTexto" placeholder="Ingrese el texto aquí"></textarea>
+            <div class="button-group">
+                <button id="btn-encriptar" onclick="encriptar()">Encriptar</button>
+                <button id="btn-desencriptar" onclick="desencriptar()">Desencriptar</button>
+            </div>
+        </div>
+
+        <div class="output-section">
+            <h2>Resultado</h2>
+            <textarea id="resultado" readonly></textarea>
+            <button id="copiar" onclick="copiarTexto()">Copiar</button>
+        </div>
+
+        <footer class="pie-de-pagina">
+            <p>Página desarrollada por Matias Noguera</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
