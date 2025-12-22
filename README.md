@@ -9,4 +9,5 @@ u--->ufat
 DEMO: https://matiasnoguera.github.io/TextEncryptor/
 
 
-![Captura de pantalla (417)](https://github.com/user-attachments/assets/54f63c65-1715-4060-a38b-e3c6bf8fdee7) 
+<img width="1833" height="774" alt="Captura de pantalla (1)" src="https://github.com/user-attachments/assets/6a002512-fa94-4c4f-98f2-a231c3377db5" />
+
